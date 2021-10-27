@@ -11,7 +11,7 @@
 
 ### A little more about me...  
 
-<img align='right' src="https://github.com/rafaelesantos/rafaelesantos/blob/main/public/gif/about_me.gif" width="300">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelesantos&langs_count=4&theme=github_dark" width="30%">
 
 ```javascript
 const rafael = {
