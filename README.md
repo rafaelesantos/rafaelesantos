@@ -2,7 +2,7 @@
 
 <img align='left' src="https://github.com/rafaelesantos/rafaelesantos/blob/main/public/gif/mobile_development.gif" width="300">
 
-<p><em>Computer Enginner at <a href="http://www.unb.br">Federal University of Mato Grosso do Sul</a></br>iOS Developer at <a href="https://www.capgemini.com">Capgemini</a></br></br>
+<p><em>Computer Enginner at <a href="https://ufms.br">Federal University of Mato Grosso do Sul</a></br>iOS Developer at <a href="https://www.capgemini.com">Capgemini</a></br></br>
 </em></p>
 <p>I started my studies in Android and iOS development before starting computer engineering college. During my course, I made several open-source projects published on Github to contribute to the mobile community. In addition, I did volunteer work at the UFMS academic computer athletic association, where I developed an application for both platforms. Also, I worked on an ERP application to computerize the production of beef cattle</br></br></p>
 
