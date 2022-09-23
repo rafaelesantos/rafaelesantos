@@ -22,38 +22,6 @@ let rafaelEscaleira = RafaelEscaleira(
     description: "Development of new features and code maintenance of Let's Bank. Main role being in new features.",
     technologiesMethodologies: [Swift, Protocols, XIB, MVP]
   ),
-  jobs: [
-     Job(
-        office: "iOS Developer",
-        company: "Capgemini",
-        description: "Development of new features and code maintenance of iOS Next and Next Joy applications. Main role being in login refactoring.",
-        technologiesMethodologies: [Swift, RxSwift, Layout view code, MVVM, Application of concepts related to information security, Unit and integration tests]
-     ),
-     Job(
-        office: "iOS Developer",
-        company: "MATTI Software",
-        description: "Implementation of new features for the Toca Livros iOS application.",
-        technologiesMethodologies: [Swift, Storyboard and XIB, MVVM, eReader Frameworks]
-     ),
-     Job(
-        office: "iOS Developer",
-        company: "Boviplan Consultoria Agropecuária",
-        description: "Creation of an application for the Boviplan Manager system. The application consists of making API calls and managing information in a database.",
-        technologiesMethodologies: [Swift, MVP, Core Data, Concurrency using threads]
-     ),
-     Job(
-        office: "iOS Developer",
-        company: "A.A.A. COMP. UFMS",
-        description: "Development of an application to list information about computing athletics, stay on top of new events, buy products and manage management.",
-        technologiesMethodologies: [Swift, Firebase, MVC, Storyboard]
-     ),
-     Job(
-        office: "iOS Developer",
-        company: "Catwork Tecnologia",
-        description: "Maintenance and creation of new features for the Gappe College application. Development of an application to display and analyze bovine genetics data from the company CRV Lagoa",
-        technologiesMethodologies: [Swift, MVC, SOLID, Storyboard, Core Data]
-     )
-  ]
   challenge: "Develop artificial intelligence to trade assets in the financial market"
 }
 ```
