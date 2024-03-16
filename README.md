@@ -3,15 +3,13 @@
 <p><em>Computer Enginner at <a href="https://www.facom.ufms.br">Federal University of Mato Grosso do Sul</a></br>Sr. iOS Developer at <a href="https://apps.apple.com/br/app/cartola-oficial/id1129547202">Cartola</a></br>
 </em></p>
 
-With six years of notable experience in the technology industry, I am an experienced iOS Developer. My expertise lies in the ability to develop clean and efficient code, adeptly applying various design patterns and test-driven programming.
+As a seasoned iOS Developer with six years of experience, I bring a wealth of expertise in crafting top-notch mobile applications. My forte lies in writing clean and efficient code, leveraging cutting-edge design patterns, and embracing test-driven development practices.
 
-I have had the privilege of participating in challenging projects across diverse sectors, including the financial sector, collaborating with renowned companies such as Banco Next and Letsbank. Additionally, I had the opportunity to contribute to the Cartola project at Rede Globo, expanding my experience in the development of sports applications. This diversity of experiences has strengthened my ability to adapt to market demands, leveraging cutting-edge frameworks within the industry.
+Throughout my career, I've had the privilege of contributing to challenging projects across diverse sectors, ranging from finance to sports. I've collaborated with renowned companies such as Banco Next, Letsbank, and even worked on the Cartola project with Rede Globo. Additionally, I've developed the "Budget" app, available on the Apple Store, which stands out not only for its functionality but also for its visually stunning layout.
 
-I dedicate a portion of my time to the development of personal projects, which I openly share on GitHub, believing that community contribution is the cornerstone of progress in the field of technology.
+I'm a strong advocate for collaboration and knowledge sharing, as evidenced by my public projects on GitHub, where I actively engage with and learn from the developer community.
 
-My approach is proactive, and I recognize the importance of teamwork in achieving efficient and effective results. My experience with agile methodologies is a highlight, considering speed and adaptability as crucial in our dynamic work environment.
-
-I am constantly in pursuit of new challenges and opportunities to enhance my skills while also contributing to the continuous advancement of the technology sector. I invite you to get in touch if you are interested in discussing potential synergies and future collaborations. I am ready to explore new and exciting professional opportunities.
+I'm always on the lookout for new challenges and opportunities to expand my skills and make meaningful contributions to the ongoing advancement of technology. I'm open to connecting with professionals and companies that value innovation and technical excellence, ready to explore potential collaborations and synergies in future projects.
 
 [![Linkedin: Rafael Escaleira](https://img.shields.io/badge/-Rafael%20Escaleira-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-e-escaleira/)](https://www.linkedin.com/in/rafael-e-escaleira/)
 [![GitHub Rafael Escaleira](https://img.shields.io/github/followers/rafaelesantos?label=follow&style=social)](https://github.com/rafaelesantos)
